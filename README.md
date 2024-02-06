@@ -31,8 +31,7 @@ The script uses OpenCV for computer vision tasks:
 2. **Run the Script:**
    - Clone this repository:
      ```bash
-     git clone https://github.com/harika-haru/Blink_detection.git
-     cd face-eye-detection-game
+     git clone https://github.com/harika-haru/Blink_detection.git 
      ```
    - Run the script:
      ```bash
